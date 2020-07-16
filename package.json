@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "async-validator": "^1.11.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "mint-ui": "^2.2.13",
     "moment": "^2.24.0",
     "vant": "^1.6.12",
