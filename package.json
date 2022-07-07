@@ -11,7 +11,7 @@
     "async-validator": "^1.11.0",
     "lodash": "^4.17.11",
     "mint-ui": "^2.2.13",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "vant": "^1.6.12",
     "vue": "^2.6.6",
     "vue-cookie": "^1.1.4",
